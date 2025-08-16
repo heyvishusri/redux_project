@@ -26,7 +26,7 @@ A simple counter app built using **React**, **Vite**, and **Redux Toolkit**, sho
 
 ##  Folder Structure
 
-```
+
 
 redux\_project/
 ├── index.html
