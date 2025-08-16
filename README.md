@@ -15,7 +15,7 @@ A simple counter app built using **React**, **Vite**, and **Redux Toolkit**. Dem
 
 ##  Folder Structure
 
-```
+
 
 rtk-beginner/
 ├── index.html
