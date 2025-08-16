@@ -113,7 +113,4 @@ This project demonstrates your ability to architect a React + Redux application 
 * Understanding of data flow and React-Redux hooks
 * Readiness to handle async logic and scale up to larger apps
 
-Feel free to refine or extend the README with CI badges, deployment links, or additional features like theming or async Thunk flows. Let me know if you'd like to practice a mock interview or expand the sample Q\&A further!
 
-[1]: https://redux-toolkit.js.org/introduction/getting-started?utm_source=chatgpt.com "Getting Started - Redux Toolkit"
-[2]: https://www.telerik.com/blogs/guide-modern-redux-say-hello-redux-toolkit-redux-toolkit-query?utm_source=chatgpt.com "Guide to Modern Redux—Redux Toolkit & Redux Toolkit Query"
