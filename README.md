@@ -8,10 +8,8 @@ A simple counter app built using **React**, **Vite**, and **Redux Toolkit**, sho
 ##  Project Details
 
 - **Tech Stack**: React · Vite · Redux Toolkit (RTK) · React-Redux
-- **Live Demo**: *[if deployed, add link here — e.g., GitHub Pages or Vercel]*
 - **Repository**: https://github.com/heyvishusri/redux_project  
 - **Author**: Vishu Sri (heyvishusri)  
-- **Contact**: [your-email@example.com] *(include your real email for recruiters to reach out)*
 
 ---
 
